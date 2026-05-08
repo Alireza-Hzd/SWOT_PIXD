@@ -20,7 +20,7 @@ A single SWOT acquisition will look like this:
 And the result for different acquisition for the entire lake would be like this:
 Passes with valid lake pixels: 6 / 15
 
-'''                     datetime  mean_wse_m  median_wse_m  std_wse_m  n_pixels
+'                     datetime  mean_wse_m  median_wse_m  std_wse_m  n_pixels
 
 2024-10-08 19:03:13.622000+00:00  110.699968    110.909897   2.510686      1400
 
@@ -33,4 +33,4 @@ Passes with valid lake pixels: 6 / 15
 2024-11-19 12:33:22.369000+00:00  111.134684    111.181436   0.977972      1029
 
 2024-11-21 01:50:28.998000+00:00  110.923368    110.910925   0.351139       539
-''''
+'
